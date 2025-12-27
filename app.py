@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: </p>
+    <p>Tác giả: Nguyễn Thị Thanh Tâm Trường TH Ngọc Đường ĐT: 0965800982</p> 
 </div>
 """, unsafe_allow_html=True)
 
